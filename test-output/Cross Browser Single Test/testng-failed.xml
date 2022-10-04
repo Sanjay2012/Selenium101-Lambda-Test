@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Cross Browser Single Test]" guice-stage="DEVELOPMENT">
+  <parameter name="url" value="https://www.lambdatest.com/selenium-playground/"/>
+  <test thread-count="5" name="Chrome Browser Testing(failed)">
+    <parameter name="browser" value="Chrome"/>
+    <parameter name="version" value="latest"/>
+    <parameter name="platform" value="Windows 10"/>
+    <classes>
+      <class name="com.lambda.test.LambdaTest_6">
+        <methods>
+          <include name="FormFilling"/>
+          <include name="tearDown"/>
+          <include name="setUrl"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.lambda.test.LambdaTest_6 -->
+      <class name="com.lambda.test.LambdaTest_5">
+        <methods>
+          <include name="EnterAndValidateMessage"/>
+          <include name="tearDown"/>
+          <include name="setUrl"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.lambda.test.LambdaTest_5 -->
+      <class name="com.lambda.test.LambdaTest_4">
+        <methods>
+          <include name="HandlingSliderBar"/>
+          <include name="tearDown"/>
+          <include name="setUrl"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.lambda.test.LambdaTest_4 -->
+    </classes>
+  </test> <!-- Chrome Browser Testing(failed) -->
+  <test thread-count="5" name="Edge Browser Testing(failed)">
+    <parameter name="browser" value="Edge"/>
+    <parameter name="version" value="87.0"/>
+    <parameter name="platform" value="macOS Sierra"/>
+    <classes>
+      <class name="com.lambda.test.LambdaTest_6">
+        <methods>
+          <include name="FormFilling"/>
+          <include name="tearDown"/>
+          <include name="setUrl"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.lambda.test.LambdaTest_6 -->
+      <class name="com.lambda.test.LambdaTest_5">
+        <methods>
+          <include name="EnterAndValidateMessage"/>
+          <include name="tearDown"/>
+          <include name="setUrl"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.lambda.test.LambdaTest_5 -->
+      <class name="com.lambda.test.LambdaTest_4">
+        <methods>
+          <include name="HandlingSliderBar"/>
+          <include name="tearDown"/>
+          <include name="setUrl"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.lambda.test.LambdaTest_4 -->
+    </classes>
+  </test> <!-- Edge Browser Testing(failed) -->
+  <test thread-count="5" name="Firefox Browser Testing(failed)">
+    <parameter name="browser" value="Firefox"/>
+    <parameter name="version" value="82.0"/>
+    <parameter name="platform" value="macOS Sierra"/>
+    <classes>
+      <class name="com.lambda.test.LambdaTest_6">
+        <methods>
+          <include name="FormFilling"/>
+          <include name="tearDown"/>
+          <include name="setUrl"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.lambda.test.LambdaTest_6 -->
+      <class name="com.lambda.test.LambdaTest_5">
+        <methods>
+          <include name="EnterAndValidateMessage"/>
+          <include name="tearDown"/>
+          <include name="setUrl"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.lambda.test.LambdaTest_5 -->
+      <class name="com.lambda.test.LambdaTest_4">
+        <methods>
+          <include name="HandlingSliderBar"/>
+          <include name="tearDown"/>
+          <include name="setUrl"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.lambda.test.LambdaTest_4 -->
+    </classes>
+  </test> <!-- Firefox Browser Testing(failed) -->
+  <test thread-count="5" name="Safari Browser Testing(failed)">
+    <parameter name="browser" value="Safari"/>
+    <parameter name="version" value="13.0"/>
+    <parameter name="platform" value="MacOS Catalina"/>
+    <classes>
+      <class name="com.lambda.test.LambdaTest_6">
+        <methods>
+          <include name="FormFilling"/>
+          <include name="tearDown"/>
+          <include name="setUrl"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.lambda.test.LambdaTest_6 -->
+      <class name="com.lambda.test.LambdaTest_5">
+        <methods>
+          <include name="EnterAndValidateMessage"/>
+          <include name="tearDown"/>
+          <include name="setUrl"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.lambda.test.LambdaTest_5 -->
+      <class name="com.lambda.test.LambdaTest_4">
+        <methods>
+          <include name="HandlingSliderBar"/>
+          <include name="tearDown"/>
+          <include name="setUrl"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.lambda.test.LambdaTest_4 -->
+    </classes>
+  </test> <!-- Safari Browser Testing(failed) -->
+</suite> <!-- Failed suite [Cross Browser Single Test] -->
