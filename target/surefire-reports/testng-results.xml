@@ -1,0 +1,1561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="8" total="20" passed="12" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
+    </line>
+    <line>
+      <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
+    </line>
+    <line>
+      <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
+    </line>
+    <line>
+      <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
+    </line>
+    <line>
+      <![CDATA[<===== Start of Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[<===== Start of Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[<===== Start of Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Setting desired Capabilities]]>
+    </line>
+    <line>
+      <![CDATA[Setting desired Capabilities]]>
+    </line>
+    <line>
+      <![CDATA[Setting desired Capabilities]]>
+    </line>
+    <line>
+      <![CDATA[<===== Start of Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Setting desired Capabilities]]>
+    </line>
+    <line>
+      <![CDATA[Connecting to hub/ Grid]]>
+    </line>
+    <line>
+      <![CDATA[Connecting to hub/ Grid]]>
+    </line>
+    <line>
+      <![CDATA[Connecting to hub/ Grid]]>
+    </line>
+    <line>
+      <![CDATA[Connecting to hub/ Grid]]>
+    </line>
+    <line>
+      <![CDATA[Open LambdaTest’s Selenium Playground from]]>
+    </line>
+    <line>
+      <![CDATA[Open LambdaTest’s Selenium Playground from]]>
+    </line>
+    <line>
+      <![CDATA[<-----Lambda Test First Scenario Enter message and Validate it Started----->]]>
+    </line>
+    <line>
+      <![CDATA[Click Simple Form Demo under Input Forms]]>
+    </line>
+    <line>
+      <![CDATA[<-----Lambda Test First Scenario Enter message and Validate it Started----->]]>
+    </line>
+    <line>
+      <![CDATA[Click Simple Form Demo under Input Forms]]>
+    </line>
+    <line>
+      <![CDATA[Validate that the URL contains simple-form-demo]]>
+    </line>
+    <line>
+      <![CDATA[Validate that the URL contains simple-form-demo]]>
+    </line>
+    <line>
+      <![CDATA[Create a variable for a string value]]>
+    </line>
+    <line>
+      <![CDATA[Use this variable to enter values in the Enter Message text box.]]>
+    </line>
+    <line>
+      <![CDATA[Create a variable for a string value]]>
+    </line>
+    <line>
+      <![CDATA[Use this variable to enter values in the Enter Message text box.]]>
+    </line>
+    <line>
+      <![CDATA[Click Get Checked Value]]>
+    </line>
+    <line>
+      <![CDATA[Click Get Checked Value]]>
+    </line>
+    <line>
+      <![CDATA[Validate whether the same text message is displayed in the right-hand panel under the Your Message section]]>
+    </line>
+    <line>
+      <![CDATA[Validate whether the same text message is displayed in the right-hand panel under the Your Message section]]>
+    </line>
+    <line>
+      <![CDATA[<------Lambda Test First Scenario Ended----->]]>
+    </line>
+    <line>
+      <![CDATA[<+======Ending the Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Closing the browser session]]>
+    </line>
+    <line>
+      <![CDATA[<------Lambda Test First Scenario Ended----->]]>
+    </line>
+    <line>
+      <![CDATA[<+======Ending the Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Closing the browser session]]>
+    </line>
+    <line>
+      <![CDATA[<===== Start of Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[<===== Start of Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Setting desired Capabilities]]>
+    </line>
+    <line>
+      <![CDATA[Setting desired Capabilities]]>
+    </line>
+    <line>
+      <![CDATA[Connecting to hub/ Grid]]>
+    </line>
+    <line>
+      <![CDATA[Connecting to hub/ Grid]]>
+    </line>
+    <line>
+      <![CDATA[Open LambdaTest’s Selenium Playground from]]>
+    </line>
+    <line>
+      <![CDATA[Step 1:Open LambdaTests Selenium Playground form]]>
+    </line>
+    <line>
+      <![CDATA[Open LambdaTest’s Selenium Playground from]]>
+    </line>
+    <line>
+      <![CDATA[<---Lambda Test Second Scenario Handling Slider Bar Started ---->]]>
+    </line>
+    <line>
+      <![CDATA[Step 1: click Drag and Drop Sliders under Progress Bars and Sliders.]]>
+    </line>
+    <line>
+      <![CDATA[Step 3: Select the slider Default value 15.]]>
+    </line>
+    <line>
+      <![CDATA[Step 4: drag the bar to make it 95]]>
+    </line>
+    <line>
+      <![CDATA[<-----Lambda Test First Scenario Enter message and Validate it Started----->]]>
+    </line>
+    <line>
+      <![CDATA[Click Simple Form Demo under Input Forms]]>
+    </line>
+    <line>
+      <![CDATA[Validate that the URL contains simple-form-demo]]>
+    </line>
+    <line>
+      <![CDATA[Create a variable for a string value]]>
+    </line>
+    <line>
+      <![CDATA[Use this variable to enter values in the Enter Message text box.]]>
+    </line>
+    <line>
+      <![CDATA[Click Get Checked Value]]>
+    </line>
+    <line>
+      <![CDATA[Validate whether the same text message is displayed in the right-hand panel under the Your Message section]]>
+    </line>
+    <line>
+      <![CDATA[<------Lambda Test First Scenario Ended----->]]>
+    </line>
+    <line>
+      <![CDATA[<+======Ending the Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Closing the browser session]]>
+    </line>
+    <line>
+      <![CDATA[<===== Start of Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Setting desired Capabilities]]>
+    </line>
+    <line>
+      <![CDATA[Connecting to hub/ Grid]]>
+    </line>
+    <line>
+      <![CDATA[Open LambdaTest’s Selenium Playground from]]>
+    </line>
+    <line>
+      <![CDATA[Step 1:Open LambdaTests Selenium Playground form]]>
+    </line>
+    <line>
+      <![CDATA[Step 5: validating whether the range value shows 95.]]>
+    </line>
+    <line>
+      <![CDATA[<---Lambda Test Second Scenario Handling Slider Bar Started ---->]]>
+    </line>
+    <line>
+      <![CDATA[Step 1: click Drag and Drop Sliders under Progress Bars and Sliders.]]>
+    </line>
+    <line>
+      <![CDATA[Lambda Test Second Scenario Ended]]>
+    </line>
+    <line>
+      <![CDATA[<+======Ending the Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Closing the browser session]]>
+    </line>
+    <line>
+      <![CDATA[Step 3: Select the slider Default value 15.]]>
+    </line>
+    <line>
+      <![CDATA[Step 4: drag the bar to make it 95]]>
+    </line>
+    <line>
+      <![CDATA[<===== Start of Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Setting desired Capabilities]]>
+    </line>
+    <line>
+      <![CDATA[Connecting to hub/ Grid]]>
+    </line>
+    <line>
+      <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
+    </line>
+    <line>
+      <![CDATA[<-----Third Scenario Form filling started---->]]>
+    </line>
+    <line>
+      <![CDATA[Step 2 : click on Input Form Submit link under Input Forms.]]>
+    </line>
+    <line>
+      <![CDATA[Step 3: Click on Submit without filling in any information in the form.]]>
+    </line>
+    <line>
+      <![CDATA[Step 4: Assert Please fill in the fields error message.]]>
+    </line>
+    <line>
+      <![CDATA[Step 5 : Fill in Name, Email, and other fields. locators of all form fields]]>
+    </line>
+    <line>
+      <![CDATA[Step 6: click Submit Button after fill the form]]>
+    </line>
+    <line>
+      <![CDATA[STep 7: validate the success message on screen ---> Thanks for contacting us, will get back to you shortly.]]>
+    </line>
+    <line>
+      <![CDATA[Lambda Test Form filling and Submission Ended]]>
+    </line>
+    <line>
+      <![CDATA[<+======Ending the Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Closing the browser session]]>
+    </line>
+    <line>
+      <![CDATA[Step 5: validating whether the range value shows 95.]]>
+    </line>
+    <line>
+      <![CDATA[Lambda Test Second Scenario Ended]]>
+    </line>
+    <line>
+      <![CDATA[<+======Ending the Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Closing the browser session]]>
+    </line>
+    <line>
+      <![CDATA[<===== Start of Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Setting desired Capabilities]]>
+    </line>
+    <line>
+      <![CDATA[Connecting to hub/ Grid]]>
+    </line>
+    <line>
+      <![CDATA[Open LambdaTest’s Selenium Playground from]]>
+    </line>
+    <line>
+      <![CDATA[<-----Lambda Test First Scenario Enter message and Validate it Started----->]]>
+    </line>
+    <line>
+      <![CDATA[Click Simple Form Demo under Input Forms]]>
+    </line>
+    <line>
+      <![CDATA[Validate that the URL contains simple-form-demo]]>
+    </line>
+    <line>
+      <![CDATA[Create a variable for a string value]]>
+    </line>
+    <line>
+      <![CDATA[Use this variable to enter values in the Enter Message text box.]]>
+    </line>
+    <line>
+      <![CDATA[Click Get Checked Value]]>
+    </line>
+    <line>
+      <![CDATA[Validate whether the same text message is displayed in the right-hand panel under the Your Message section]]>
+    </line>
+    <line>
+      <![CDATA[<------Lambda Test First Scenario Ended----->]]>
+    </line>
+    <line>
+      <![CDATA[<+======Ending the Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Closing the browser session]]>
+    </line>
+    <line>
+      <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
+    </line>
+    <line>
+      <![CDATA[<===== Start of Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Setting desired Capabilities]]>
+    </line>
+    <line>
+      <![CDATA[Connecting to hub/ Grid]]>
+    </line>
+    <line>
+      <![CDATA[<-----Third Scenario Form filling started---->]]>
+    </line>
+    <line>
+      <![CDATA[Step 2 : click on Input Form Submit link under Input Forms.]]>
+    </line>
+    <line>
+      <![CDATA[Step 3: Click on Submit without filling in any information in the form.]]>
+    </line>
+    <line>
+      <![CDATA[Step 4: Assert Please fill in the fields error message.]]>
+    </line>
+    <line>
+      <![CDATA[Step 5 : Fill in Name, Email, and other fields. locators of all form fields]]>
+    </line>
+    <line>
+      <![CDATA[Open LambdaTest’s Selenium Playground from]]>
+    </line>
+    <line>
+      <![CDATA[Step 1:Open LambdaTests Selenium Playground form]]>
+    </line>
+    <line>
+      <![CDATA[<---Lambda Test Second Scenario Handling Slider Bar Started ---->]]>
+    </line>
+    <line>
+      <![CDATA[Step 1: click Drag and Drop Sliders under Progress Bars and Sliders.]]>
+    </line>
+    <line>
+      <![CDATA[Step 3: Select the slider Default value 15.]]>
+    </line>
+    <line>
+      <![CDATA[Step 4: drag the bar to make it 95]]>
+    </line>
+    <line>
+      <![CDATA[Step 6: click Submit Button after fill the form]]>
+    </line>
+    <line>
+      <![CDATA[STep 7: validate the success message on screen ---> Thanks for contacting us, will get back to you shortly.]]>
+    </line>
+    <line>
+      <![CDATA[Lambda Test Form filling and Submission Ended]]>
+    </line>
+    <line>
+      <![CDATA[<+======Ending the Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Closing the browser session]]>
+    </line>
+    <line>
+      <![CDATA[Open LambdaTest’s Selenium Playground from]]>
+    </line>
+    <line>
+      <![CDATA[Step 1:Open LambdaTests Selenium Playground form]]>
+    </line>
+    <line>
+      <![CDATA[<---Lambda Test Second Scenario Handling Slider Bar Started ---->]]>
+    </line>
+    <line>
+      <![CDATA[Step 1: click Drag and Drop Sliders under Progress Bars and Sliders.]]>
+    </line>
+    <line>
+      <![CDATA[Step 3: Select the slider Default value 15.]]>
+    </line>
+    <line>
+      <![CDATA[Step 4: drag the bar to make it 95]]>
+    </line>
+    <line>
+      <![CDATA[Step 5: validating whether the range value shows 95.]]>
+    </line>
+    <line>
+      <![CDATA[Lambda Test Second Scenario Ended]]>
+    </line>
+    <line>
+      <![CDATA[<+======Ending the Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Closing the browser session]]>
+    </line>
+    <line>
+      <![CDATA[<===== Start of Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Setting desired Capabilities]]>
+    </line>
+    <line>
+      <![CDATA[Connecting to hub/ Grid]]>
+    </line>
+    <line>
+      <![CDATA[Step 5: validating whether the range value shows 95.]]>
+    </line>
+    <line>
+      <![CDATA[Lambda Test Second Scenario Ended]]>
+    </line>
+    <line>
+      <![CDATA[<+======Ending the Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Closing the browser session]]>
+    </line>
+    <line>
+      <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
+    </line>
+    <line>
+      <![CDATA[<===== Start of Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Setting desired Capabilities]]>
+    </line>
+    <line>
+      <![CDATA[Connecting to hub/ Grid]]>
+    </line>
+    <line>
+      <![CDATA[<-----Third Scenario Form filling started---->]]>
+    </line>
+    <line>
+      <![CDATA[Step 2 : click on Input Form Submit link under Input Forms.]]>
+    </line>
+    <line>
+      <![CDATA[Step 3: Click on Submit without filling in any information in the form.]]>
+    </line>
+    <line>
+      <![CDATA[Step 4: Assert Please fill in the fields error message.]]>
+    </line>
+    <line>
+      <![CDATA[Step 5 : Fill in Name, Email, and other fields. locators of all form fields]]>
+    </line>
+    <line>
+      <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
+    </line>
+    <line>
+      <![CDATA[<-----Third Scenario Form filling started---->]]>
+    </line>
+    <line>
+      <![CDATA[Step 2 : click on Input Form Submit link under Input Forms.]]>
+    </line>
+    <line>
+      <![CDATA[Step 3: Click on Submit without filling in any information in the form.]]>
+    </line>
+    <line>
+      <![CDATA[Step 4: Assert Please fill in the fields error message.]]>
+    </line>
+    <line>
+      <![CDATA[Step 5 : Fill in Name, Email, and other fields. locators of all form fields]]>
+    </line>
+    <line>
+      <![CDATA[Step 6: click Submit Button after fill the form]]>
+    </line>
+    <line>
+      <![CDATA[STep 7: validate the success message on screen ---> Thanks for contacting us, will get back to you shortly.]]>
+    </line>
+    <line>
+      <![CDATA[Lambda Test Form filling and Submission Ended]]>
+    </line>
+    <line>
+      <![CDATA[<+======Ending the Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Closing the browser session]]>
+    </line>
+    <line>
+      <![CDATA[Step 6: click Submit Button after fill the form]]>
+    </line>
+    <line>
+      <![CDATA[STep 7: validate the success message on screen ---> Thanks for contacting us, will get back to you shortly.]]>
+    </line>
+    <line>
+      <![CDATA[Lambda Test Form filling and Submission Ended]]>
+    </line>
+    <line>
+      <![CDATA[<+======Ending the Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Closing the browser session]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-10-04T21:17:41 IST" name="TestNG Parallel Test suite" finished-at="2022-10-04T21:21:48 IST" duration-ms="247652">
+    <groups>
+    </groups>
+    <test started-at="2022-10-04T21:17:41 IST" name="Firefox Browser Testing" finished-at="2022-10-04T21:19:32 IST" duration-ms="111649">
+      <class name="com.lambda.test.LambdaTest_1">
+        <test-method is-config="true" signature="setUrl(java.lang.String)[pri:0, instance:com.lambda.test.LambdaTest_1@3d74bf60]" started-at="2022-10-04T21:17:41 IST" name="setUrl" finished-at="2022-10-04T21:17:41 IST" duration-ms="59" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.lambdatest.com/selenium-playground/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUrl -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.lambda.test.LambdaTest_1@3d74bf60]" started-at="2022-10-04T21:17:41 IST" name="setup" finished-at="2022-10-04T21:17:52 IST" duration-ms="11029" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.lambda.test.LambdaTest_1.EnterAndValidateMessage() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@61862a7f]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[82.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[macOS Sierra]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<===== Start of Test Method =====>]]>
+            </line>
+            <line>
+              <![CDATA[Setting desired Capabilities]]>
+            </line>
+            <line>
+              <![CDATA[Connecting to hub/ Grid]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="EnterAndValidateMessage()[pri:0, instance:com.lambda.test.LambdaTest_1@3d74bf60]" started-at="2022-10-04T21:17:52 IST" name="EnterAndValidateMessage" finished-at="2022-10-04T21:18:01 IST" duration-ms="9069" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Open LambdaTest’s Selenium Playground from]]>
+            </line>
+            <line>
+              <![CDATA[<-----Lambda Test First Scenario Enter message and Validate it Started----->]]>
+            </line>
+            <line>
+              <![CDATA[Click Simple Form Demo under Input Forms]]>
+            </line>
+            <line>
+              <![CDATA[Validate that the URL contains simple-form-demo]]>
+            </line>
+            <line>
+              <![CDATA[Create a variable for a string value]]>
+            </line>
+            <line>
+              <![CDATA[Use this variable to enter values in the Enter Message text box.]]>
+            </line>
+            <line>
+              <![CDATA[Click Get Checked Value]]>
+            </line>
+            <line>
+              <![CDATA[Validate whether the same text message is displayed in the right-hand panel under the Your Message section]]>
+            </line>
+            <line>
+              <![CDATA[<------Lambda Test First Scenario Ended----->]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- EnterAndValidateMessage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.lambda.test.LambdaTest_1@3d74bf60]" started-at="2022-10-04T21:18:01 IST" name="tearDown" finished-at="2022-10-04T21:18:03 IST" duration-ms="2522" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<+======Ending the Test Method =====>]]>
+            </line>
+            <line>
+              <![CDATA[Closing the browser session]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.lambda.test.LambdaTest_1 -->
+      <class name="com.lambda.test.LambdaTest_2">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.lambda.test.LambdaTest_2@4f209819]" started-at="2022-10-04T21:18:03 IST" name="setup" finished-at="2022-10-04T21:18:11 IST" duration-ms="8036" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.lambda.test.LambdaTest_2.HandlingSliderBar() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@61862a7f]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[82.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[macOS Sierra]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<===== Start of Test Method =====>]]>
+            </line>
+            <line>
+              <![CDATA[Setting desired Capabilities]]>
+            </line>
+            <line>
+              <![CDATA[Connecting to hub/ Grid]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="HandlingSliderBar()[pri:0, instance:com.lambda.test.LambdaTest_2@4f209819]" started-at="2022-10-04T21:18:11 IST" name="HandlingSliderBar" finished-at="2022-10-04T21:18:57 IST" duration-ms="45400" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Open LambdaTest’s Selenium Playground from]]>
+            </line>
+            <line>
+              <![CDATA[Step 1:Open LambdaTests Selenium Playground form]]>
+            </line>
+            <line>
+              <![CDATA[<---Lambda Test Second Scenario Handling Slider Bar Started ---->]]>
+            </line>
+            <line>
+              <![CDATA[Step 1: click Drag and Drop Sliders under Progress Bars and Sliders.]]>
+            </line>
+            <line>
+              <![CDATA[Step 3: Select the slider Default value 15.]]>
+            </line>
+            <line>
+              <![CDATA[Step 4: drag the bar to make it 95]]>
+            </line>
+            <line>
+              <![CDATA[Step 5: validating whether the range value shows 95.]]>
+            </line>
+            <line>
+              <![CDATA[Lambda Test Second Scenario Ended]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- HandlingSliderBar -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.lambda.test.LambdaTest_2@4f209819]" started-at="2022-10-04T21:18:57 IST" name="tearDown" finished-at="2022-10-04T21:18:59 IST" duration-ms="2383" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<+======Ending the Test Method =====>]]>
+            </line>
+            <line>
+              <![CDATA[Closing the browser session]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.lambda.test.LambdaTest_2 -->
+      <class name="com.lambda.test.LambdaTest_3">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.lambda.test.LambdaTest_3@15eb5ee5]" started-at="2022-10-04T21:18:59 IST" name="setup" finished-at="2022-10-04T21:19:12 IST" duration-ms="13018" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.lambda.test.LambdaTest_3.FormFilling() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@61862a7f]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[82.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[macOS Sierra]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<===== Start of Test Method =====>]]>
+            </line>
+            <line>
+              <![CDATA[Setting desired Capabilities]]>
+            </line>
+            <line>
+              <![CDATA[Connecting to hub/ Grid]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="FormFilling()[pri:0, instance:com.lambda.test.LambdaTest_3@15eb5ee5]" started-at="2022-10-04T21:19:12 IST" name="FormFilling" finished-at="2022-10-04T21:19:29 IST" duration-ms="17250" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
+            </line>
+            <line>
+              <![CDATA[<-----Third Scenario Form filling started---->]]>
+            </line>
+            <line>
+              <![CDATA[Step 2 : click on Input Form Submit link under Input Forms.]]>
+            </line>
+            <line>
+              <![CDATA[Step 3: Click on Submit without filling in any information in the form.]]>
+            </line>
+            <line>
+              <![CDATA[Step 4: Assert Please fill in the fields error message.]]>
+            </line>
+            <line>
+              <![CDATA[Step 5 : Fill in Name, Email, and other fields. locators of all form fields]]>
+            </line>
+            <line>
+              <![CDATA[Step 6: click Submit Button after fill the form]]>
+            </line>
+            <line>
+              <![CDATA[STep 7: validate the success message on screen ---> Thanks for contacting us, will get back to you shortly.]]>
+            </line>
+            <line>
+              <![CDATA[Lambda Test Form filling and Submission Ended]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- FormFilling -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.lambda.test.LambdaTest_3@15eb5ee5]" started-at="2022-10-04T21:19:29 IST" name="tearDown" finished-at="2022-10-04T21:19:32 IST" duration-ms="2777" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<+======Ending the Test Method =====>]]>
+            </line>
+            <line>
+              <![CDATA[Closing the browser session]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.lambda.test.LambdaTest_3 -->
+    </test> <!-- Firefox Browser Testing -->
+    <test started-at="2022-10-04T21:17:41 IST" name="Edge Browser Testing" finished-at="2022-10-04T21:20:13 IST" duration-ms="152298">
+      <class name="com.lambda.test.LambdaTest_1">
+        <test-method is-config="true" signature="setUrl(java.lang.String)[pri:0, instance:com.lambda.test.LambdaTest_1@c267ef4]" started-at="2022-10-04T21:17:41 IST" name="setUrl" finished-at="2022-10-04T21:17:41 IST" duration-ms="54" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.lambdatest.com/selenium-playground/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUrl -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.lambda.test.LambdaTest_1@c267ef4]" started-at="2022-10-04T21:17:41 IST" name="setup" finished-at="2022-10-04T21:17:51 IST" duration-ms="10132" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.lambda.test.LambdaTest_1.EnterAndValidateMessage() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@441772e]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[87.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[MacOS Catalina]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<===== Start of Test Method =====>]]>
+            </line>
+            <line>
+              <![CDATA[Setting desired Capabilities]]>
+            </line>
+            <line>
+              <![CDATA[Connecting to hub/ Grid]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="EnterAndValidateMessage()[pri:0, instance:com.lambda.test.LambdaTest_1@c267ef4]" started-at="2022-10-04T21:17:51 IST" name="EnterAndValidateMessage" finished-at="2022-10-04T21:18:01 IST" duration-ms="10400" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Open LambdaTest’s Selenium Playground from]]>
+            </line>
+            <line>
+              <![CDATA[<-----Lambda Test First Scenario Enter message and Validate it Started----->]]>
+            </line>
+            <line>
+              <![CDATA[Click Simple Form Demo under Input Forms]]>
+            </line>
+            <line>
+              <![CDATA[Validate that the URL contains simple-form-demo]]>
+            </line>
+            <line>
+              <![CDATA[Create a variable for a string value]]>
+            </line>
+            <line>
+              <![CDATA[Use this variable to enter values in the Enter Message text box.]]>
+            </line>
+            <line>
+              <![CDATA[Click Get Checked Value]]>
+            </line>
+            <line>
+              <![CDATA[Validate whether the same text message is displayed in the right-hand panel under the Your Message section]]>
+            </line>
+            <line>
+              <![CDATA[<------Lambda Test First Scenario Ended----->]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- EnterAndValidateMessage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.lambda.test.LambdaTest_1@c267ef4]" started-at="2022-10-04T21:18:01 IST" name="tearDown" finished-at="2022-10-04T21:18:03 IST" duration-ms="2091" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<+======Ending the Test Method =====>]]>
+            </line>
+            <line>
+              <![CDATA[Closing the browser session]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.lambda.test.LambdaTest_1 -->
+      <class name="com.lambda.test.LambdaTest_2">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.lambda.test.LambdaTest_2@4ac3c60d]" started-at="2022-10-04T21:18:03 IST" name="setup" finished-at="2022-10-04T21:18:53 IST" duration-ms="49290" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.lambda.test.LambdaTest_2.HandlingSliderBar() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@441772e]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[87.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[MacOS Catalina]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<===== Start of Test Method =====>]]>
+            </line>
+            <line>
+              <![CDATA[Setting desired Capabilities]]>
+            </line>
+            <line>
+              <![CDATA[Connecting to hub/ Grid]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="HandlingSliderBar()[pri:0, instance:com.lambda.test.LambdaTest_2@4ac3c60d]" started-at="2022-10-04T21:18:53 IST" name="HandlingSliderBar" finished-at="2022-10-04T21:19:38 IST" duration-ms="45135" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Open LambdaTest’s Selenium Playground from]]>
+            </line>
+            <line>
+              <![CDATA[Step 1:Open LambdaTests Selenium Playground form]]>
+            </line>
+            <line>
+              <![CDATA[<---Lambda Test Second Scenario Handling Slider Bar Started ---->]]>
+            </line>
+            <line>
+              <![CDATA[Step 1: click Drag and Drop Sliders under Progress Bars and Sliders.]]>
+            </line>
+            <line>
+              <![CDATA[Step 3: Select the slider Default value 15.]]>
+            </line>
+            <line>
+              <![CDATA[Step 4: drag the bar to make it 95]]>
+            </line>
+            <line>
+              <![CDATA[Step 5: validating whether the range value shows 95.]]>
+            </line>
+            <line>
+              <![CDATA[Lambda Test Second Scenario Ended]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- HandlingSliderBar -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.lambda.test.LambdaTest_2@4ac3c60d]" started-at="2022-10-04T21:19:38 IST" name="tearDown" finished-at="2022-10-04T21:19:40 IST" duration-ms="2204" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<+======Ending the Test Method =====>]]>
+            </line>
+            <line>
+              <![CDATA[Closing the browser session]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.lambda.test.LambdaTest_2 -->
+      <class name="com.lambda.test.LambdaTest_3">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.lambda.test.LambdaTest_3@4facf68f]" started-at="2022-10-04T21:19:40 IST" name="setup" finished-at="2022-10-04T21:19:50 IST" duration-ms="10404" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.lambda.test.LambdaTest_3.FormFilling() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@441772e]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[87.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[MacOS Catalina]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<===== Start of Test Method =====>]]>
+            </line>
+            <line>
+              <![CDATA[Setting desired Capabilities]]>
+            </line>
+            <line>
+              <![CDATA[Connecting to hub/ Grid]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="FormFilling()[pri:0, instance:com.lambda.test.LambdaTest_3@4facf68f]" started-at="2022-10-04T21:19:50 IST" name="FormFilling" finished-at="2022-10-04T21:20:11 IST" duration-ms="20410" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
+            </line>
+            <line>
+              <![CDATA[<-----Third Scenario Form filling started---->]]>
+            </line>
+            <line>
+              <![CDATA[Step 2 : click on Input Form Submit link under Input Forms.]]>
+            </line>
+            <line>
+              <![CDATA[Step 3: Click on Submit without filling in any information in the form.]]>
+            </line>
+            <line>
+              <![CDATA[Step 4: Assert Please fill in the fields error message.]]>
+            </line>
+            <line>
+              <![CDATA[Step 5 : Fill in Name, Email, and other fields. locators of all form fields]]>
+            </line>
+            <line>
+              <![CDATA[Step 6: click Submit Button after fill the form]]>
+            </line>
+            <line>
+              <![CDATA[STep 7: validate the success message on screen ---> Thanks for contacting us, will get back to you shortly.]]>
+            </line>
+            <line>
+              <![CDATA[Lambda Test Form filling and Submission Ended]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- FormFilling -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.lambda.test.LambdaTest_3@4facf68f]" started-at="2022-10-04T21:20:11 IST" name="tearDown" finished-at="2022-10-04T21:20:13 IST" duration-ms="2071" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<+======Ending the Test Method =====>]]>
+            </line>
+            <line>
+              <![CDATA[Closing the browser session]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.lambda.test.LambdaTest_3 -->
+    </test> <!-- Edge Browser Testing -->
+    <test started-at="2022-10-04T21:17:41 IST" name="Internet Explorer Browser Testing" finished-at="2022-10-04T21:21:40 IST" duration-ms="239138">
+      <class name="com.lambda.test.LambdaTest_1">
+        <test-method is-config="true" signature="setUrl(java.lang.String)[pri:0, instance:com.lambda.test.LambdaTest_1@63355449]" started-at="2022-10-04T21:17:41 IST" name="setUrl" finished-at="2022-10-04T21:17:41 IST" duration-ms="57" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.lambdatest.com/selenium-playground/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUrl -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.lambda.test.LambdaTest_1@63355449]" started-at="2022-10-04T21:17:41 IST" name="setup" finished-at="2022-10-04T21:18:13 IST" duration-ms="31935" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.lambda.test.LambdaTest_1.EnterAndValidateMessage() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@7334aada]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Internet Explorer]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[latest]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Windows 10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<===== Start of Test Method =====>]]>
+            </line>
+            <line>
+              <![CDATA[Setting desired Capabilities]]>
+            </line>
+            <line>
+              <![CDATA[Connecting to hub/ Grid]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="EnterAndValidateMessage()[pri:0, instance:com.lambda.test.LambdaTest_1@63355449]" started-at="2022-10-04T21:18:13 IST" name="EnterAndValidateMessage" finished-at="2022-10-04T21:18:38 IST" duration-ms="25244" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Open LambdaTest’s Selenium Playground from]]>
+            </line>
+            <line>
+              <![CDATA[<-----Lambda Test First Scenario Enter message and Validate it Started----->]]>
+            </line>
+            <line>
+              <![CDATA[Click Simple Form Demo under Input Forms]]>
+            </line>
+            <line>
+              <![CDATA[Validate that the URL contains simple-form-demo]]>
+            </line>
+            <line>
+              <![CDATA[Create a variable for a string value]]>
+            </line>
+            <line>
+              <![CDATA[Use this variable to enter values in the Enter Message text box.]]>
+            </line>
+            <line>
+              <![CDATA[Click Get Checked Value]]>
+            </line>
+            <line>
+              <![CDATA[Validate whether the same text message is displayed in the right-hand panel under the Your Message section]]>
+            </line>
+            <line>
+              <![CDATA[<------Lambda Test First Scenario Ended----->]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- EnterAndValidateMessage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.lambda.test.LambdaTest_1@63355449]" started-at="2022-10-04T21:18:38 IST" name="tearDown" finished-at="2022-10-04T21:18:40 IST" duration-ms="1881" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<+======Ending the Test Method =====>]]>
+            </line>
+            <line>
+              <![CDATA[Closing the browser session]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.lambda.test.LambdaTest_1 -->
+      <class name="com.lambda.test.LambdaTest_2">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.lambda.test.LambdaTest_2@9353778]" started-at="2022-10-04T21:18:40 IST" name="setup" finished-at="2022-10-04T21:20:00 IST" duration-ms="80376" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.lambda.test.LambdaTest_2.HandlingSliderBar() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@7334aada]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Internet Explorer]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[latest]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Windows 10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<===== Start of Test Method =====>]]>
+            </line>
+            <line>
+              <![CDATA[Setting desired Capabilities]]>
+            </line>
+            <line>
+              <![CDATA[Connecting to hub/ Grid]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="HandlingSliderBar()[pri:0, instance:com.lambda.test.LambdaTest_2@9353778]" started-at="2022-10-04T21:20:00 IST" name="HandlingSliderBar" finished-at="2022-10-04T21:20:53 IST" duration-ms="53098" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Open LambdaTest’s Selenium Playground from]]>
+            </line>
+            <line>
+              <![CDATA[Step 1:Open LambdaTests Selenium Playground form]]>
+            </line>
+            <line>
+              <![CDATA[<---Lambda Test Second Scenario Handling Slider Bar Started ---->]]>
+            </line>
+            <line>
+              <![CDATA[Step 1: click Drag and Drop Sliders under Progress Bars and Sliders.]]>
+            </line>
+            <line>
+              <![CDATA[Step 3: Select the slider Default value 15.]]>
+            </line>
+            <line>
+              <![CDATA[Step 4: drag the bar to make it 95]]>
+            </line>
+            <line>
+              <![CDATA[Step 5: validating whether the range value shows 95.]]>
+            </line>
+            <line>
+              <![CDATA[Lambda Test Second Scenario Ended]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- HandlingSliderBar -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.lambda.test.LambdaTest_2@9353778]" started-at="2022-10-04T21:20:53 IST" name="tearDown" finished-at="2022-10-04T21:20:55 IST" duration-ms="1781" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<+======Ending the Test Method =====>]]>
+            </line>
+            <line>
+              <![CDATA[Closing the browser session]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.lambda.test.LambdaTest_2 -->
+      <class name="com.lambda.test.LambdaTest_3">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.lambda.test.LambdaTest_3@6a28ffa4]" started-at="2022-10-04T21:20:55 IST" name="setup" finished-at="2022-10-04T21:21:11 IST" duration-ms="16263" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.lambda.test.LambdaTest_3.FormFilling() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@7334aada]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Internet Explorer]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[latest]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Windows 10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<===== Start of Test Method =====>]]>
+            </line>
+            <line>
+              <![CDATA[Setting desired Capabilities]]>
+            </line>
+            <line>
+              <![CDATA[Connecting to hub/ Grid]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="FormFilling()[pri:0, instance:com.lambda.test.LambdaTest_3@6a28ffa4]" started-at="2022-10-04T21:21:11 IST" name="FormFilling" finished-at="2022-10-04T21:21:38 IST" duration-ms="26606" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
+            </line>
+            <line>
+              <![CDATA[<-----Third Scenario Form filling started---->]]>
+            </line>
+            <line>
+              <![CDATA[Step 2 : click on Input Form Submit link under Input Forms.]]>
+            </line>
+            <line>
+              <![CDATA[Step 3: Click on Submit without filling in any information in the form.]]>
+            </line>
+            <line>
+              <![CDATA[Step 4: Assert Please fill in the fields error message.]]>
+            </line>
+            <line>
+              <![CDATA[Step 5 : Fill in Name, Email, and other fields. locators of all form fields]]>
+            </line>
+            <line>
+              <![CDATA[Step 6: click Submit Button after fill the form]]>
+            </line>
+            <line>
+              <![CDATA[STep 7: validate the success message on screen ---> Thanks for contacting us, will get back to you shortly.]]>
+            </line>
+            <line>
+              <![CDATA[Lambda Test Form filling and Submission Ended]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- FormFilling -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.lambda.test.LambdaTest_3@6a28ffa4]" started-at="2022-10-04T21:21:38 IST" name="tearDown" finished-at="2022-10-04T21:21:40 IST" duration-ms="1799" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<+======Ending the Test Method =====>]]>
+            </line>
+            <line>
+              <![CDATA[Closing the browser session]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.lambda.test.LambdaTest_3 -->
+    </test> <!-- Internet Explorer Browser Testing -->
+    <test started-at="2022-10-04T21:17:41 IST" name="Chrome Browser  testing" finished-at="2022-10-04T21:21:48 IST" duration-ms="247652">
+      <class name="com.lambda.test.LambdaTest_1">
+        <test-method is-config="true" signature="setUrl(java.lang.String)[pri:0, instance:com.lambda.test.LambdaTest_1@3c22fc4c]" started-at="2022-10-04T21:17:41 IST" name="setUrl" finished-at="2022-10-04T21:17:41 IST" duration-ms="65" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.lambdatest.com/selenium-playground/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUrl -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.lambda.test.LambdaTest_1@3c22fc4c]" started-at="2022-10-04T21:17:41 IST" name="setup" finished-at="2022-10-04T21:19:40 IST" duration-ms="119272" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.lambda.test.LambdaTest_1.EnterAndValidateMessage() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@1d9b7cce]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[latest]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Windows 10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<===== Start of Test Method =====>]]>
+            </line>
+            <line>
+              <![CDATA[Setting desired Capabilities]]>
+            </line>
+            <line>
+              <![CDATA[Connecting to hub/ Grid]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="EnterAndValidateMessage()[pri:0, instance:com.lambda.test.LambdaTest_1@3c22fc4c]" started-at="2022-10-04T21:19:40 IST" name="EnterAndValidateMessage" finished-at="2022-10-04T21:19:49 IST" duration-ms="9310" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Open LambdaTest’s Selenium Playground from]]>
+            </line>
+            <line>
+              <![CDATA[<-----Lambda Test First Scenario Enter message and Validate it Started----->]]>
+            </line>
+            <line>
+              <![CDATA[Click Simple Form Demo under Input Forms]]>
+            </line>
+            <line>
+              <![CDATA[Validate that the URL contains simple-form-demo]]>
+            </line>
+            <line>
+              <![CDATA[Create a variable for a string value]]>
+            </line>
+            <line>
+              <![CDATA[Use this variable to enter values in the Enter Message text box.]]>
+            </line>
+            <line>
+              <![CDATA[Click Get Checked Value]]>
+            </line>
+            <line>
+              <![CDATA[Validate whether the same text message is displayed in the right-hand panel under the Your Message section]]>
+            </line>
+            <line>
+              <![CDATA[<------Lambda Test First Scenario Ended----->]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- EnterAndValidateMessage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.lambda.test.LambdaTest_1@3c22fc4c]" started-at="2022-10-04T21:19:49 IST" name="tearDown" finished-at="2022-10-04T21:19:51 IST" duration-ms="1904" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<+======Ending the Test Method =====>]]>
+            </line>
+            <line>
+              <![CDATA[Closing the browser session]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.lambda.test.LambdaTest_1 -->
+      <class name="com.lambda.test.LambdaTest_2">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.lambda.test.LambdaTest_2@6af93788]" started-at="2022-10-04T21:19:51 IST" name="setup" finished-at="2022-10-04T21:20:20 IST" duration-ms="28682" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.lambda.test.LambdaTest_2.HandlingSliderBar() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@1d9b7cce]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[latest]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Windows 10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<===== Start of Test Method =====>]]>
+            </line>
+            <line>
+              <![CDATA[Setting desired Capabilities]]>
+            </line>
+            <line>
+              <![CDATA[Connecting to hub/ Grid]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="HandlingSliderBar()[pri:0, instance:com.lambda.test.LambdaTest_2@6af93788]" started-at="2022-10-04T21:20:20 IST" name="HandlingSliderBar" finished-at="2022-10-04T21:21:10 IST" duration-ms="49735" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Open LambdaTest’s Selenium Playground from]]>
+            </line>
+            <line>
+              <![CDATA[Step 1:Open LambdaTests Selenium Playground form]]>
+            </line>
+            <line>
+              <![CDATA[<---Lambda Test Second Scenario Handling Slider Bar Started ---->]]>
+            </line>
+            <line>
+              <![CDATA[Step 1: click Drag and Drop Sliders under Progress Bars and Sliders.]]>
+            </line>
+            <line>
+              <![CDATA[Step 3: Select the slider Default value 15.]]>
+            </line>
+            <line>
+              <![CDATA[Step 4: drag the bar to make it 95]]>
+            </line>
+            <line>
+              <![CDATA[Step 5: validating whether the range value shows 95.]]>
+            </line>
+            <line>
+              <![CDATA[Lambda Test Second Scenario Ended]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- HandlingSliderBar -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.lambda.test.LambdaTest_2@6af93788]" started-at="2022-10-04T21:21:10 IST" name="tearDown" finished-at="2022-10-04T21:21:12 IST" duration-ms="1864" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<+======Ending the Test Method =====>]]>
+            </line>
+            <line>
+              <![CDATA[Closing the browser session]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.lambda.test.LambdaTest_2 -->
+      <class name="com.lambda.test.LambdaTest_3">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.lambda.test.LambdaTest_3@ef9296d]" started-at="2022-10-04T21:21:12 IST" name="setup" finished-at="2022-10-04T21:21:27 IST" duration-ms="15403" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.lambda.test.LambdaTest_3.FormFilling() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@1d9b7cce]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[latest]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Windows 10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<===== Start of Test Method =====>]]>
+            </line>
+            <line>
+              <![CDATA[Setting desired Capabilities]]>
+            </line>
+            <line>
+              <![CDATA[Connecting to hub/ Grid]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="FormFilling()[pri:0, instance:com.lambda.test.LambdaTest_3@ef9296d]" started-at="2022-10-04T21:21:27 IST" name="FormFilling" finished-at="2022-10-04T21:21:46 IST" duration-ms="19438" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
+            </line>
+            <line>
+              <![CDATA[<-----Third Scenario Form filling started---->]]>
+            </line>
+            <line>
+              <![CDATA[Step 2 : click on Input Form Submit link under Input Forms.]]>
+            </line>
+            <line>
+              <![CDATA[Step 3: Click on Submit without filling in any information in the form.]]>
+            </line>
+            <line>
+              <![CDATA[Step 4: Assert Please fill in the fields error message.]]>
+            </line>
+            <line>
+              <![CDATA[Step 5 : Fill in Name, Email, and other fields. locators of all form fields]]>
+            </line>
+            <line>
+              <![CDATA[Step 6: click Submit Button after fill the form]]>
+            </line>
+            <line>
+              <![CDATA[STep 7: validate the success message on screen ---> Thanks for contacting us, will get back to you shortly.]]>
+            </line>
+            <line>
+              <![CDATA[Lambda Test Form filling and Submission Ended]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- FormFilling -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.lambda.test.LambdaTest_3@ef9296d]" started-at="2022-10-04T21:21:46 IST" name="tearDown" finished-at="2022-10-04T21:21:48 IST" duration-ms="1885" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<+======Ending the Test Method =====>]]>
+            </line>
+            <line>
+              <![CDATA[Closing the browser session]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.lambda.test.LambdaTest_3 -->
+    </test> <!-- Chrome Browser  testing -->
+  </suite> <!-- TestNG Parallel Test suite -->
+</testng-results>
