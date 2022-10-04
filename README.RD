@@ -1,4 +1,4 @@
-Step to be follow to run the project from command prompt
+ Step to be follow to run the project from command prompt
 1.Open project directory
 > drive\LambdaTest-Selenium101>	
 

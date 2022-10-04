@@ -34,8 +34,11 @@ public class BaseTest {
 	public void setup(Method m, ITestContext ctx, String browser, String version, String platform)
 			throws MalformedURLException {
 		Reporter.log("<===== Start of Test Method =====>");
-		String username = "wawaresanjay1";
-		String accesskey = "lc2MNq8U6nqrMn4govcSLAkUKIaRJvhAVllyRkpDZpoVKz8kY0";
+//		String username = "wawaresanjay1";
+//		String accesskey = "lc2MNq8U6nqrMn4govcSLAkUKIaRJvhAVllyRkpDZpoVKz8kY0";
+		String username = "sanjaywaware04";
+		String accesskey = "i6I2yqGQJTSjxYMwkhvy3LHTBHin6XJmTAOpAa729s18AqC5U3";
+		
 		String hub = "@hub.lambdatest.com/wd/hub";
 		
 		Reporter.log("Setting desired Capabilities", true);
@@ -48,7 +51,7 @@ public class BaseTest {
 		caps.setCapability("visual", true); // To enable step by step screenshot
 		caps.setCapability("video", true); // To enable video recording
 		caps.setCapability("console", true); // To capture console logs
-		caps.setCapability("build", "Selenium101-Parallel Testing");
+		caps.setCapability("build", "LambdaTest");
 		caps.setCapability("name", m.getName() + this.getClass().getName());
 		caps.setCapability("plugin", "git-testng");
 		
