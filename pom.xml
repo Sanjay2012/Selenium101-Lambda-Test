@@ -54,7 +54,7 @@
 				</executions>
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile>single2.xml</suiteXmlFile>
+						<suiteXmlFile>single.xml</suiteXmlFile>
 						<suiteXmlFile>testng.xml</suiteXmlFile>
 						<suiteXmlFile>parallel.xml</suiteXmlFile>
 					</suiteXmlFiles>

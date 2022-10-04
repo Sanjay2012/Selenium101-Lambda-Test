@@ -48,7 +48,7 @@ public class BaseTest {
 		caps.setCapability("visual", true); // To enable step by step screenshot
 		caps.setCapability("video", true); // To enable video recording
 		caps.setCapability("console", true); // To capture console logs
-		caps.setCapability("build", "Selenium101");
+		caps.setCapability("build", "Selenium101-CrossBrowser Testing");
 		caps.setCapability("name", m.getName() + this.getClass().getName());
 		caps.setCapability("plugin", "git-testng");
 		
