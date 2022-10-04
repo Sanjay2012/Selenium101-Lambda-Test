@@ -40,7 +40,7 @@ public class LambdaTest_1 extends BaseTest {
 		}
 
 		Reporter.log("Validate that the URL contains simple-form-demo" , true);
-		soft.assertTrue(driver.getPageSource().contains("Simple Form Demo"));
+		soft.assertTrue(driver.getCurrentUrl().contains("simple-form-demo"));
 
 		Reporter.log("Create a variable for a string value" , true);
 		String ExpectedMessage = "Welcome to LambdaTest";
@@ -60,8 +60,8 @@ public class LambdaTest_1 extends BaseTest {
 		
 		Reporter.log("Validate whether the same text message is displayed in the right-hand panel under the Your Message section" , true);
 
-		String ActualMessage = driver.findElement(By.cssSelector("#message")).getText();
-
+		//String ActualMessage = driver.findElement(By.cssSelector("#message")).getText();
+		String ActualMessage = driver.findElement(By.xpath("//p[@id=\"message\"]")).getText();
 		soft.assertEquals(ActualMessage, ExpectedMessage);
 
 		Reporter.log("<------Lambda Test First Scenario Ended----->", true);
