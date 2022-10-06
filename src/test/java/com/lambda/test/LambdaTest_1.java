@@ -50,7 +50,6 @@ public class LambdaTest_1 extends BaseTest {
 			textBox.sendKeys(ExpectedMessage);
 			Reporter.log("Click Get Checked Value" , true);
 			WebElement button = driver.findElement(By.cssSelector("#showInput"));
-			wait.until(ExpectedConditions.elementToBeClickable(button));
 			act.click(button).perform();
 		} catch (Exception e) {
 	
