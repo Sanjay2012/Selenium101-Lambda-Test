@@ -34,9 +34,10 @@ public class BaseTest {
 	public void setup(Method m, ITestContext ctx, String browser, String version, String platform)
 			throws MalformedURLException {
 		Reporter.log("<===== Start of Test Method =====>");
-		String username = "wawaresanjay1";
-		String accesskey = "lc2MNq8U6nqrMn4govcSLAkUKIaRJvhAVllyRkpDZpoVKz8kY0";
-		
+//		String username = "wawaresanjay1";
+//		String accesskey = "lc2MNq8U6nqrMn4govcSLAkUKIaRJvhAVllyRkpDZpoVKz8kY0";
+		String username = "pandhareshital01";
+		String accesskey = "0tVLhBPdvYu2BvmeImD9BhTzG2A8xexkWu59hvO9HE7IclzEXJ";
 		String hub = "@hub.lambdatest.com/wd/hub";
 		
 		Reporter.log("Setting desired Capabilities", true);

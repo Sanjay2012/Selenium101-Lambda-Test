@@ -5,7 +5,6 @@ import java.time.Duration;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
-
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Reporter;
@@ -51,7 +50,8 @@ public class LambdaTest_1 extends BaseTest {
 			textBox.sendKeys(ExpectedMessage);
 			Reporter.log("Click Get Checked Value" , true);
 			WebElement button = driver.findElement(By.cssSelector("#showInput"));
-			act.click(button).perform();
+			wait.until(ExpectedConditions.elementToBeClickable(button)).click();
+			//act.click(button).perform();
 		} catch (Exception e) {
 	
 			e.printStackTrace();
@@ -61,7 +61,8 @@ public class LambdaTest_1 extends BaseTest {
 		Reporter.log("Validate whether the same text message is displayed in the right-hand panel under the Your Message section" , true);
 
 		//String ActualMessage = driver.findElement(By.cssSelector("#message")).getText();
-		String ActualMessage = driver.findElement(By.xpath("//p[@id=\"message\"]")).getText();
+		//String ActualMessage = driver.findElement(By.xpath("//p[@id=\"message\"]")).getText();
+		String ActualMessage=wait.until(ExpectedConditions.presenceOfElementLocated(By.xpath("//p[@id=\"message\"]"))).getText();
 		soft.assertEquals(ActualMessage, ExpectedMessage);
 
 		Reporter.log("<------Lambda Test First Scenario Ended----->", true);
